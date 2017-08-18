@@ -33,9 +33,9 @@ Electron version included is also the newest with 1.7.5 and React 15.6.1
     "react-tap-event-plugin": "^2.0.1" // Material UI requires it, but it's also a good temporary solution to a big problem 
     "electron": "^1.7.5" // Cross platform framework for web tech to run natively 
 
-Material UI: (Current beta docs docs) [https://material-ui-1dab0.firebaseapp.com/](https://material-ui-1dab0.firebaseapp.com/)
-Material UI Icons: [https://www.npmjs.com/package/material-ui-icons](https://www.npmjs.com/package/material-ui-icons)
-React tap event plugin: [https://github.com/zilverline/react-tap-event-plugin](https://github.com/zilverline/react-tap-event-plugin)
-Electron: [https://electron.atom.io/](https://electron.atom.io/)
+Material UI: (Current beta docs docs) [https://material-ui-1dab0.firebaseapp.com/](https://material-ui-1dab0.firebaseapp.com/)  
+Material UI Icons: [https://www.npmjs.com/package/material-ui-icons](https://www.npmjs.com/package/material-ui-icons)  
+React tap event plugin: [https://github.com/zilverline/react-tap-event-plugin](https://github.com/zilverline/react-tap-event-plugin)  
+Electron: [https://electron.atom.io/](https://electron.atom.io/)  
 
 **create-react-app was used to create the base of the project**
