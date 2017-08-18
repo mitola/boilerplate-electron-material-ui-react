@@ -1,5 +1,4 @@
 ## Boilerplate for React with Material UI and Electron
-## =============================
 
 Up to date boilerplate with React, Electron and Material UI (Beta). 
 I started to look a bit more in the folowing stack and noticed quite bad documentation in some areas or at least quite outdated ones, or ones containing huge amount of dependencies.
