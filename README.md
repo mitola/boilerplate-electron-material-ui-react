@@ -39,3 +39,4 @@ React tap event plugin: [https://github.com/zilverline/react-tap-event-plugin](h
 Electron: [https://electron.atom.io/](https://electron.atom.io/)  
 
 **create-react-app was used to create the base of the project**
+
