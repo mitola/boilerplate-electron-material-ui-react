@@ -8,13 +8,12 @@ That's why I have decided to create the boilerplate for my reference and to anyo
 
 ## Run steps: 
 
-1.) `npm install` 
-2.) `npm run`
-3.) It will open browser with localhost:3000 page with rendering of basic Material menu
-
-4.) open second terminal window 
-5.) `npm run electron`
-6.) It will open electron native client 
+1.) `npm install`  
+2.) `npm run`  
+3.) It will open browser with localhost:3000 page with rendering of basic Material menu  
+4.) open second terminal window  
+5.) `npm run electron`  
+6.) It will open electron native client  
 
 
 In regards to dependencies I have included only the most essential ones and as future prof as possible, 
