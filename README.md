@@ -9,7 +9,7 @@ That's why I have decided to create the boilerplate for my reference and to anyo
 ## Run steps: 
 
 1.) `npm install`  
-2.) `npm run`  
+2.) `npm run` (Used npm run on Windows) || `npm start` (Used npm start on OS X)
 3.) It will open browser with localhost:3000 page with rendering of basic Material menu  
 4.) open second terminal window  
 5.) `npm run electron`  
