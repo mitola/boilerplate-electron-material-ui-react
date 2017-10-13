@@ -5,10 +5,10 @@
   "dependencies": {
     "material-ui": "^1.0.0-beta.10",
     "material-ui-icons": "^1.0.0-alpha.19",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-scripts": "1.0.11",
-    "react-tap-event-plugin": "^2.0.1"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14",
+    "react-tap-event-plugin": "^3.0.2"
   },
   "devDependencies": {
     "electron": "^1.7.6"
